@@ -8,8 +8,8 @@ A Coding Competition called "Skillful Saturday" that is organized by the Coding 
 
 > Programming Language used is **Python**  <br>
 
-### Problem: <br>
-> Problem Discription for each problem is persent in it's code file. <br>
+### Problems: <br>
+> CLick on Problem Name to see how the problem was solved. <br>
 
 1. [Strings and Sub Strings](https://github.com/Amoeba5558/Coding-Club_Skillful-Saturdays/blob/main/Problem-01.py) <br>
 * Problem Description : <br>
